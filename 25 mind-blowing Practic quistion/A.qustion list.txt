@@ -1,0 +1,15 @@
+qus1: Given a string, reverse each word in the sentence
+
+qus2: How to check if an object is an array or not?
+
+qus3: How to empty an array in JS? condtion: do not reset it to a new array , and do loop throught to pop each value.
+
+qus4: How would you check if a number is an integer?
+
+qus5: Make this work: duplicate([1,2,4,5]) //[1,2,3,4,5,1,2,3,4,5]
+
+*******************function releted qustion************************ 
+
+qus6: Write a JavaScript function that reverse a number
+
+qus7:   
