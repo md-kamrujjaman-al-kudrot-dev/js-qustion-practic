@@ -1,0 +1,1 @@
+// qus7: Write a JavaScript function that check whether a passed string is palindrome or not
