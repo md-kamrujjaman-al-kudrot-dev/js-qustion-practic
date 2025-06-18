@@ -13,3 +13,6 @@ qus5: Make this work: duplicate([1,2,4,5]) //[1,2,3,4,5,1,2,3,4,5]
 qus6: Write a JavaScript function that reverse a number
 
 qus7: Write a JavaScript function that check whether a passed string is palindrome or not
+
+qus8:  Write a JavaScript function that returns a passed string with letters in alphabetical order
+
