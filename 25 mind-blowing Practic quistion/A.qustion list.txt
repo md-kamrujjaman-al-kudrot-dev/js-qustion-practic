@@ -17,3 +17,5 @@ qus7:  Write a JavaScript function that check whether a passed string is palindr
 qus8:  Write a JavaScript function that returns a passed string with letters in alphabetical order
 
 qus9:  write a JavaScript function that accepts a string as a parameter and converts the first letter of each word of the string in upper case
+
+qus10: write a JavaScript function to get the number of occurrences of each letter in specified string.
