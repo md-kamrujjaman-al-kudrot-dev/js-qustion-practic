@@ -1,0 +1,1 @@
+// loop an array and addd all members of it
