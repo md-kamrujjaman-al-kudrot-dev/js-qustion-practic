@@ -26,3 +26,5 @@ loops:
 qus11: loop an array and addd all members of it
 
 qus12: loop an array of object and remove all object which don't have gender's value male
+
+qus13: // 1. write a js function  to clone an array
