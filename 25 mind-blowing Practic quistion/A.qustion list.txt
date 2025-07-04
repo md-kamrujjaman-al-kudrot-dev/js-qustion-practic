@@ -29,3 +29,7 @@ qus11: loop an array and addd all members of it
 qus12: loop an array of object and remove all object which don't have gender's value male
 
 qus13: write a js function  to clone an array
+
+qus14: // write a JavaScript function which accepts an argument and returns the type
+
+qus15: write a JavaScript function to get the first element of an array. passing a parameter "n" will return the first "n" element of the array
