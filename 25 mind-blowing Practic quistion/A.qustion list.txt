@@ -33,3 +33,5 @@ qus13: write a js function  to clone an array
 qus14: // write a JavaScript function which accepts an argument and returns the type
 
 qus15: write a JavaScript function to get the first element of an array. passing a parameter "n" will return the first "n" element of the array
+
+qus16: write a JavaScript function to get the last elementof an array passing "n" will returnthe last 'n' element of the array.
