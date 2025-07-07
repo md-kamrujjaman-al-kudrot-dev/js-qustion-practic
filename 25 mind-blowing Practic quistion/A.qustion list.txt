@@ -37,3 +37,5 @@ qus15: write a JavaScript function to get the first element of an array. passing
 qus16: write a JavaScript function to get the last elementof an array passing "n" will returnthe last 'n' element of the array.
 
 qus17: write a JavaScript program to find the most frequent item of an array.
+
+qus18: write a JavaScript program to suffle an array
